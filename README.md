@@ -1,8 +1,7 @@
-# React + Vite
+# MileStone Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. # [Sweet Alert](https://sweetalert2.github.io/)
+2. # [MongoDB atlas](https://www.mongodb.com/atlas/database)
+2. # [MongoDB Crud](https://www.mongodb.com/docs/manual/crud//)
